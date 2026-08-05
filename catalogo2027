@@ -103,10 +103,10 @@
 
     <script>
         // --- ÁREA DE CONFIGURAÇÃO ---
-        const WHATSAPP_NUM = "5599999999999"; // Coloque seu número aqui
+        const WHATSAPP_NUM = "5599985574488"; // Coloque seu número aqui
 
         const catalog = [
-            { id: 1, ref: "RB27420", desc: "Mochila Rodinhas Rebecca Bonbon Luxo", category: "JUVENIL", price: 379.90, stock: 15, img: "https://via.placeholder.com/400x400?text=RB27420" },
+            { id: 1, ref: "FLA28272D", desc: "Mochila Costas Infantil Flamengo", category: "JUVENIL", price: 379.90, stock: 15, img: "FLA28272D.webp" },
             { id: 2, ref: "RB27005", desc: "Mochila Costas Rebecca Bonbon Soft", category: "JUVENIL", price: 179.90, stock: 42, img: "https://via.placeholder.com/400x400?text=RB27005" },
             { id: 3, ref: "CP26263B", desc: "KIT BABY: Mochila + Lancheira Térmica", category: "BABY", price: 114.90, stock: 0, img: "https://via.placeholder.com/400x400?text=KIT+BABY" },
             { id: 4, ref: "ML1306", desc: "Mochila Executiva Notebook 17'", category: "EXECUTIVO", price: 249.90, stock: 8, img: "https://via.placeholder.com/400x400?text=EXEC" },
